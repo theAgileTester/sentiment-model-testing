@@ -31,11 +31,11 @@ Test and evaluate a pre-trained sentiment analysis model to identify potential w
 | I don’t hate it. | Positive | Neutral | 0.58 | Negation not fully captured |
 | Oh great, another delay. Just perfect. | Negative | Positive | 0.36 | Model fails to detect irony / sarcasm |
 | The camera is amazing but the battery life is terrible. | Mixed | Negative | 0.77 | Mixed sentiment compressed to single label |
-| Meh. | Neutral | Negative | 0.40 | Short / ambiguous text misinterpreted |
-| I love this app! ❤️ | Positive | Positive | 0.93 | Emoji handled correctly |
-| I hate hate hate this. | Negative | Negative | 0.88 | Repeated emphasis correctly recognized |
-| Not bad at all. | Positive | Neutral | 0.55 | Negation not fully captured |
-| Could be better, could be worse. | Neutral | Neutral | 0.50 | Correct, but low confidence |
+| Meh. | Neutral | Neutral | 0.65 | Short / ambiguous text misinterpreted |
+| I love this app! ❤️ | Positive | Positive | 0.98 | Emoji handled correctly |
+| I hate hate hate this. | Negative | Negative | 0.92 | Repeated emphasis correctly recognized |
+| Not bad at all. | Positive | Positive | 0.82 | Negation not fully captured |
+| Could be better, could be worse. | Neutral | Neutral | 0.47 | Correct, but low confidence |
 
 ---
 
