@@ -30,7 +30,7 @@ Test and evaluate a pre-trained sentiment analysis model to identify potential w
 | This is the worst service ever. | Negative | Negative | 0.95 | Correctly classified |
 | I don’t hate it. | Positive | Neutral | 0.58 | Negation not fully captured |
 | Oh great, another delay. Just perfect. | Negative | Positive | 0.36 | Model fails to detect irony / sarcasm |
-| The camera is amazing but the battery life is terrible. | Mixed | Positive | 0.65 | Mixed sentiment compressed to single label |
+| The camera is amazing but the battery life is terrible. | Mixed | Negative | 0.77 | Mixed sentiment compressed to single label |
 | Meh. | Neutral | Negative | 0.40 | Short / ambiguous text misinterpreted |
 | I love this app! ❤️ | Positive | Positive | 0.93 | Emoji handled correctly |
 | I hate hate hate this. | Negative | Negative | 0.88 | Repeated emphasis correctly recognized |
