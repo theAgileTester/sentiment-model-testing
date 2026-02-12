@@ -60,7 +60,7 @@ Test and evaluate a pre-trained sentiment analysis model to identify potential w
 
 ---
 
-## 5️⃣ Key Takeaways (CV / Portfolio Ready)
+## 5️⃣ Key Takeaways 
 
 - Conducted **bias and edge-case testing** for sentiment model  
 - Evaluated **negation, irony, mixed sentiment, and emoji handling**  
